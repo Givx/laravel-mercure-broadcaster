@@ -1,5 +1,5 @@
 {
-    "name": "mvanduijker/laravel-mercure-broadcaster",
+    "name": "givx/laravel-mercure-broadcaster",
     "description": "Mercure broadcaster",
     "keywords": [
         "laravel",
@@ -9,13 +9,13 @@
         "SSE",
         "Server Sent Events"
     ],
-    "homepage": "https://github.com/mvanduijker/laravel-mercure-broadcaster",
+    "homepage": "https://github.com/givx/laravel-mercure-broadcaster",
     "license": "MIT",
     "authors": [
         {
             "name": "Mark van Duijker",
             "email": "mark@duyker.nl",
-            "homepage": "https://github.com/mvanduijker",
+            "homepage": "https://github.com/givx",
             "role": "Developer"
         }
     ],
